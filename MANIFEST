@@ -1,0 +1,13 @@
+Artistic			Artistic License
+CHANGES				Changes Log
+INSTALL				Installation Instructions
+MANIFEST			This file
+Makefile.PL			MakeMaker file
+README				Please do so
+Tom.pm				Basic module
+Tom/demand.pm			require like demand statement.
+Tom/use.pm			provides a 'use' like module
+test.pl				Test suite
+NOTES				Some hints for use and notes to myself
+SECURITY			A bit of a document outlining TOM's security.
+MODULES				Outline of modules you will need.

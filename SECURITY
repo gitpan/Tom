@@ -1,0 +1,9 @@
+I do not claim that Tom has *any* security.
+
+However, it does allow you use of a safe compartment,  which is
+passed by reference to the Tom::register() method.  Tom will register the
+class and *one* object (under the name of $obj) in that compartment.
+
+Provided Opcode/Safe is secure, so is Tom.  Security isn't explicit, 
+but it is present if wanted, and is awaiting an assignment.
+
